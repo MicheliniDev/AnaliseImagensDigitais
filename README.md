@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">IMAGENS DIGITAIS</h1>
+<h1>IMAGENS DIGITAIS</h1>
 
 <h5><i>Por Igor Michelini e Felipe Mussato</i></h5>
 
